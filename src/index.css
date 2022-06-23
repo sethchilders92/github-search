@@ -1,0 +1,10 @@
+.search-form {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.MuiFormControl-root, button.MuiButton-root {
+  margin: 5px;
+}
